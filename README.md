@@ -22,3 +22,19 @@ root/
 └── README.md                   # Documentation file explaining the project  
 ```
 
+## **Results**  
+
+| Clustering Method  | Silhouette Score |
+|--------------------|-----------------|
+| KMeans            | 0.38            |
+| Agglomerative     | 0.35            |
+
+
+## **Installation & Usage**  
+Clone the repository and install dependencies:  
+```bash
+git clone https://github.com/your-repo/country-clustering.git
+cd country-clustering
+pip install -r requirements.txt
+
+
