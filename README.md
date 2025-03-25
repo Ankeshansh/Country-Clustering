@@ -1,13 +1,19 @@
 # Country-Clustering
 
-About Dataset
+This project applies machine learning techniques to cluster countries based on various economic, social, and demographic indicators. Using **Principal Component Analysis (PCA)** for dimensionality reduction and **KMeans & Agglomerative Clustering**, the project provides insights into country similarities.  
+
+
+## **About Dataset**
 
 Clustering the Countries by using Unsupervised Learning for HELP International Objective: To categorise the countries using socio-economic and health factors that determine the overall development of the country.
 
-About organization:
+## **Features**  
+- **Dimensionality Reduction:** PCA is used to extract the most relevant features.  
+- **Clustering Algorithms:** Implementation of KMeans and Agglomerative clustering.  
+- **Visualization:** Cluster results are plotted for better interpretation.  
+- **Performance Evaluation:** Silhouette score used for assessing clustering quality.  
 
-HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
+## **Directory Structure**  
 
-Problem Statement:
+root/ ├── Country_Clustering.ipynb # Main notebook with EDA, clustering, and visualizations ├── data/ # Folder containing the dataset ├── results/ # Folder for storing output visualizations └── README.md # Project documentation
 
-HELP International have been able to raise around $10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. So, CEO has to make decision to choose the countries that are in the direst need of aid.
