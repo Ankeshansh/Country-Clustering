@@ -14,11 +14,11 @@ Clustering the Countries by using Unsupervised Learning for HELP International O
 - **Performance Evaluation:** Silhouette score used for assessing clustering quality.  
 
 ## **Directory Structure**  
-
+```
 root/                           
 ├── Country_Clustering.ipynb    # Jupyter Notebook containing data analysis, clustering, and visualizations  
 ├── data/                       # Folder storing the dataset used for clustering  
 ├── results/                    # Folder where output visualizations (graphs, charts) are saved  
 └── README.md                   # Documentation file explaining the project  
-
+```
 
