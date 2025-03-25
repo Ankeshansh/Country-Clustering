@@ -15,5 +15,10 @@ Clustering the Countries by using Unsupervised Learning for HELP International O
 
 ## **Directory Structure**  
 
-root/ ├── Country_Clustering.ipynb # Main notebook with EDA, clustering, and visualizations ├── data/ # Folder containing the dataset ├── results/ # Folder for storing output visualizations └── README.md # Project documentation
+root/                           # Root directory of the project  
+├── Country_Clustering.ipynb    # Jupyter Notebook containing data analysis, clustering, and visualizations  
+├── data/                       # Folder storing the dataset used for clustering  
+├── results/                    # Folder where output visualizations (graphs, charts) are saved  
+└── README.md                   # Documentation file explaining the project  
+
 
