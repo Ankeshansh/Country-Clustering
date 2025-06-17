@@ -34,6 +34,5 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/your-repo/country-clustering.git
 cd country-clustering
-pip install -r requirements.txt
 
 
